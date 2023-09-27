@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ryan ✨
+
+I pride myself on being a reliable, hard-working and focused person who loves learning about new technologies and loves interacting with new people. My key interests include Cloud Computing, Networking and Programming (Web and Python)
+
+Outside of work, I'm very interested in Japanese literature, music, coffee and cats 🐱
 
 <!--
 **ryan-iem/ryan-iem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
