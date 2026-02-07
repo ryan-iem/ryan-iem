@@ -1,8 +1,16 @@
 ### Hi, I'm Ryan ✨
 
-I pride myself on being a reliable, hard-working and focused person who loves learning about new technologies and loves interacting with new people. My key interests include Cloud Computing, Networking and Programming (Web and Python)
+Motivated, adventurous, and eager to learn.
 
-Outside of work, I'm very interested in Japanese literature, music, coffee and cats 🐱
+After a brief year at NAB as a Technology Intern, I made the difficult decision to say goodbye and move to Japan on a Working Holiday Visa to pursue a lifelong dream of mine. From there, in only three short years, I was able to improve my Japanese from complete beginner to near conversational/business-level proficiency (~N2 level) all through self-study - something I deeply pride myself on. During my time there, I lived in various cities, interacted with people from all walks of life, and had the amazing and once-in-a-lifetime opportunity to represent Australia on the world stage at Expo 2025 Osaka. All of which greatly contributed to bettering my soft skills and getting me excited about where I would end up next...
+
+However, even throughout my time in Japan, IT always remained at the back of my mind. I’ve been passionate about the world of IT since I was young and always knew I would eventually return to it. After taking time off to realise my lifelong dream, I’m now content with my Japanese proficiency and ready to once again take on the world of Information Technology.
+
+You’ll find me motivated about IT, adventurous in my problem-solving and eager to learn the latest technologies. Then, outside of work, I'm a big fan of music, Japanese literature, whisky, cafes and cats 🐱 
+
+P.S. I can probably also give you a good Japanese recommendation or two 😸
+
+Willing to relocate.
 
 <!--
 **ryan-iem/ryan-iem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
