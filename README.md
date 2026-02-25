@@ -1,28 +1,11 @@
-### Hi, I'm Ryan ✨
+### Motivated, adventurous, and eager to learn.
 
-Motivated, adventurous, and eager to learn.
+After starting my career as a Technology Intern at National Australia Bank, I made the difficult decision to say goodbye and pursue a lifelong dream of mine: living in Japan and learning Japanese. Through only self-study and immersion, I was able to improve my Japanese from a complete beginner to near business-level proficiency (~N2 level). What was originally a 2-year plan ended up becoming three years thanks to the opportunity to represent Australia at Expo 2025 Osaka - a once-in-a-lifetime experience that not only further strengthened my Japanese proficiency, but also my adaptability, communication skills, and global perspective.
 
-After a brief year at NAB as a Technology Intern, I made the difficult decision to say goodbye and move to Japan on a Working Holiday Visa to pursue a lifelong dream of mine. From there, in only three short years, I was able to improve my Japanese from complete beginner to near conversational/business-level proficiency (~N2 level) all through self-study - something I deeply pride myself on. During my time there, I lived in various cities, interacted with people from all walks of life, and had the amazing and once-in-a-lifetime opportunity to represent Australia on the world stage at Expo 2025 Osaka. All of which greatly contributed to bettering my soft skills and getting me excited about where I would end up next...
+Despite my adventure in Japan, my passion for Information Technology never faded. The field has always held a special place in my heart since I was young, and after taking some time to pursue my lifelong dream, I’m now content with my Japanese proficiency and ready to once again take on the world of IT.
 
-However, even throughout my time in Japan, IT always remained at the back of my mind. I’ve been passionate about the world of IT since I was young and always knew I would eventually return to it. After taking time off to realise my lifelong dream, I’m now content with my Japanese proficiency and ready to once again take on the world of Information Technology.
+You’ll find me **motivated** about IT, **adventurous** in my problem-solving and **eager to learn** the latest technologies. Then, outside of work, I'm a big fan of music, Japanese literature, whisky, cafes and cats. 
 
-You’ll find me motivated about IT, adventurous in my problem-solving and eager to learn the latest technologies. Then, outside of work, I'm a big fan of music, Japanese literature, whisky, cafes and cats 🐱 
-
-P.S. I can probably also give you a good Japanese recommendation or two 😸
+P.S. I can probably give you a good Japanese recommendation too 😸
 
 Willing to relocate.
-
-<!--
-**ryan-iem/ryan-iem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
